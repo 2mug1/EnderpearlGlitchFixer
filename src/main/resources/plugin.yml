@@ -1,0 +1,5 @@
+name: EnderpearlGlitchFixer
+main: com.github.iamtakagi.epfix.EnderpearlGlitchFixer
+version: 1.0
+author: iamtakagi
+api-version: 1.17
